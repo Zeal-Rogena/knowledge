@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">knowledge</string>
+    <string name="sign_up">SIGN UP\n</string>
+    <string name="enter_email">ENTER EMAIL\n</string>
+    <string name="enter_password">ENTER PASSWORD\n</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="create_account">"CREATE ACCOUNT "</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738778001465",
+    "project_id": "knowledge-5c3a0",
+    "storage_bucket": "knowledge-5c3a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738778001465:android:21b013a2e11e3668ca1de8",
+        "android_client_info": {
+          "package_name": "com.example.knowledge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJEylk7Kma4QpDgVQMrdihzpyJw3lVgyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
